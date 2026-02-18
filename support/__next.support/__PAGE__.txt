@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/694836347d1e5ef3.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"F53nK0afxphV2ybQ_9sPK","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen px-6 py-24 bg-neutral-50 dark:bg-neutral-900","children":["$","div",null,{"className":"max-w-3xl mx-auto text-center","children":[["$","h1",null,{"className":"text-4xl font-semibold mb-6","children":"Support"}],["$","p",null,{"className":"text-lg mb-4","children":"This support page is a placeholder."}],["$","p",null,{"className":"text-neutral-600 dark:text-neutral-400","children":"Support content, FAQs, or contact instructions can be added here later."}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

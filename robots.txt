@@ -1,4 +1,4 @@
-User-Agent: *
+User-agent: *
+Allow: /
 
-Host: http://localhost:3000
-Sitemap: http://localhost:3000/sitemap.xml
+Sitemap: https://raviiyerss.in/sitemap-index.xml
